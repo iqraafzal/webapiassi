@@ -1,0 +1,14 @@
+C:\Users\Tabii Mirza\source\repos\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.deps.json
+C:\Users\Tabii Mirza\source\repos\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.runtimeconfig.json
+C:\Users\Tabii Mirza\source\repos\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.runtimeconfig.dev.json
+C:\Users\Tabii Mirza\source\repos\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.dll
+C:\Users\Tabii Mirza\source\repos\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.csprojAssemblyReference.cache
+C:\Users\Tabii Mirza\source\repos\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Tabii Mirza\source\repos\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.RazorAssemblyInfo.cache
+C:\Users\Tabii Mirza\source\repos\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.RazorAssemblyInfo.cs
+C:\Users\Tabii Mirza\source\repos\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.AssemblyInfoInputs.cache
+C:\Users\Tabii Mirza\source\repos\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.AssemblyInfo.cs
+C:\Users\Tabii Mirza\source\repos\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.RazorTargetAssemblyInfo.cache
+C:\Users\Tabii Mirza\source\repos\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.pdb
+C:\Users\Tabii Mirza\source\repos\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.dll
+C:\Users\Tabii Mirza\source\repos\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.pdb
